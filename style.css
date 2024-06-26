@@ -7,17 +7,17 @@
 
 .left img{
     position: absolute;
-    top: 20px;
+    top: -10px;
     left: 30px;
-    width: 600px;
+    width: 700px;
 }
 
 
 .left h3{
     font-size: 43px;
     position: absolute; 
-    top: 390px;
-    left: 95px;
+    top: 420px;
+    left: 110px;
     padding-left: 45px;
     padding-top: 30px;
     color: #0058C2;
@@ -28,11 +28,42 @@
 .left p{
     font-size: 20px;
     position: absolute; 
-    top: 460px;
-    left: 155px;
+    top: 490px;
+    left: 170px;
     padding-left: 45px;
     padding-top: 40px;
     color: #636166;
     font-family: Arial;
 
+}
+
+.right{
+    position: absolute;
+    left: 60%;
+    top: 15%;
+}
+
+#input-names{
+    width: 150px;
+    height: 30px;
+}
+
+
+.right label{
+    font-size: 15px;
+    color: #636166;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+.right table tr td{
+    padding-bottom: 15px;
+}
+
+.right input{
+    width: 310px;
+    height: 30px;
+    background: #F1F1F1;
+    border: 1px solid #3B7ECE;
+    border-radius: 4px;
 }
