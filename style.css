@@ -50,9 +50,9 @@
 
 
 .right label{
-    font-size: 15px;
+    font-size: 13px;
     color: #636166;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
    
 }
 
@@ -132,7 +132,7 @@ padding-left: 70px;
 }
 
 .or span{
-    padding-top: 12px; 
+    padding-top: 10px; 
     font-size: 15px;
 }
 
