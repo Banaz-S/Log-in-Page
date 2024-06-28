@@ -68,7 +68,7 @@
     border-radius: 4px;
 }
 
-.right button{
+#Sign-up{
     width: 317px;
     height: 35px;
     border-radius: 4px;
@@ -82,10 +82,51 @@
 
 }
 
-.right button:hover{
+#Sign-up:hover{
     text-shadow: 0 0 20px 0px rgba(33, 102, 231, 0.2);
     cursor: pointer;
     scale: 1.05;
 
 }
 
+
+.log-in p{
+padding-top: 70px;
+font-size: 14px;
+padding-left: 70px;
+}
+
+.log-in a{
+    color: #0058C2;
+
+}
+
+.log-in button{
+    width: 150px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+    margin-top: 10px;
+   
+
+}
+
+#right-button{
+    margin-left: 20px;
+}
+
+.log-in span{
+    color: #0058C2;
+    position: absolute;
+    top: 350px;
+}
+
+.or{
+    padding-top: 10px;
+}
+
+.or span{
+    padding-top: 12px; 
+    font-size: 15px;
+}
