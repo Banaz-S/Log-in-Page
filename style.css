@@ -98,7 +98,12 @@ padding-left: 70px;
 
 .log-in a{
     color: #0058C2;
+    padding-left: 2px;
 
+}
+
+.log-in a:hover{
+    font-weight: bold;
 }
 
 .log-in button{
@@ -130,3 +135,21 @@ padding-left: 70px;
     padding-top: 12px; 
     font-size: 15px;
 }
+
+.icon ion-icon{
+    font-size: 40px;
+    padding-top: 40px;
+    color: #0058C2;
+    transition: 0.5s ease;   
+}
+
+.ic{
+    padding-left: 48px;
+}
+
+.icon ion-icon:hover{
+    text-shadow: 0 0 20px 0px rgba(33, 102, 231, 0.2);
+    cursor: pointer;
+    scale: 1.05;
+}
+
