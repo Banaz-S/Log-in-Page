@@ -40,7 +40,7 @@
 .right{
     position: absolute;
     left: 60%;
-    top: 15%;
+    top: 20%;
 }
 
 #input-names{
@@ -67,3 +67,25 @@
     border: 1px solid #3B7ECE;
     border-radius: 4px;
 }
+
+.right button{
+    width: 317px;
+    height: 35px;
+    border-radius: 4px;
+    border: 1px solid #3B7ECE;
+    color: #f9f9f9;
+    background: #0058C2;
+    position: absolute;
+    margin-top: 10px;
+    transition: 0.5s ease;
+    
+
+}
+
+.right button:hover{
+    text-shadow: 0 0 20px 0px rgba(33, 102, 231, 0.2);
+    cursor: pointer;
+    scale: 1.05;
+
+}
+
