@@ -153,3 +153,112 @@ padding-left: 70px;
     scale: 1.05;
 }
 
+@media(max-width: 500px){
+    .right{
+        position: absolute;
+        top: 800px;
+    }
+
+    #right-button{
+        position: absolute;
+        top: 357px;
+        left: 216px;
+    }
+
+    .or span{
+        padding-top: 7px; 
+        font-size: 20px;
+        padding-left: 7px;
+    }
+
+    .icon ion-icon{
+        font-size: 90px;   
+    }
+
+    .ic{
+        margin-left: -10px;
+    }
+
+    #apple{
+        position: absolute;
+        
+    }
+
+    .left h3{
+        width: 500px;
+        font-size: 45px;
+        position: absolute; 
+        top: 420px;
+        left: 130px;
+        padding-left: 45px;
+        padding-top: 30px;
+      
+      
+    }
+
+    .left p{
+        width: 500px;
+        font-size: 25px;
+        position: absolute; 
+        top: 490px;
+        left: 170px;
+        padding-left: 45px;
+        padding-top: 40px;
+        color: #636166;
+        font-family: Arial;
+    }
+
+    .right table {
+        position: absolute;
+        top: -120px;
+        left: 10px;
+       
+    }
+
+    .right label{
+        font-size: 20px;
+    }
+
+    #input-names{
+        width: 200px;
+        height: 50px;
+        border-radius: 4px;
+
+    }
+
+    .right input{
+        width: 410px;
+        height: 50px;
+        border-radius: 4px;
+        font-size: 20px;
+
+    }
+
+    #Sign-up{
+        width: 417px;
+        height: 55px;
+        font-size: 20px;
+        margin-top: 15px;
+     
+    }
+
+    .log-in p{
+        padding-top: 270px;
+        font-size: 23px;
+        padding-left: 70px;
+        width: 500px;
+        }
+
+        .log-in span{
+            position: absolute;
+            top: 350px;
+
+        }
+
+        .log-in button{
+            width: 150px;
+            margin-top: 10px;
+            margin-left: 50px;
+          
+        }
+}
